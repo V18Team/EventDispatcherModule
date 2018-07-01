@@ -1,0 +1,12 @@
+{
+    "name": "v18team/eventdispatcher",
+    "description": "Event dispatcher used in YoungFramework",
+    "type": "library",
+    "license": "GNU GPL",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "YoungFramework\\Module\\EventDispatcher\\": "src/"
+        }
+    }
+}
